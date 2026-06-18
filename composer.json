@@ -1,6 +1,5 @@
 {
     "name": "imtiaz/survey-package-crud",
-    "version": "1.0.0",
     "description": "Laravel Survey Dashboard Package",
     "type": "library",
     "license": "MIT",
@@ -15,5 +14,7 @@
                 "Imtiaz\\SurveyPackage\\SurveyServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
